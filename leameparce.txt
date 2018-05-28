@@ -1,0 +1,7 @@
+parce, hay tres carpetas...
+
+las que dicen CVE-201707(81 u 85) Son las que solo ejecuta el script y tal,
+el que funciona mejor es el 85
+
+
+la otra carpeta, blueborne, son los scripts originales de videos pero limitados. 
